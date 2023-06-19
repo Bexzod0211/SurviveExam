@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796524753406",
+    "project_id": "surviveexam",
+    "storage_bucket": "surviveexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796524753406:android:668b92be3c5283dc8e50af",
+        "android_client_info": {
+          "package_name": "uz.gita.surviveexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796524753406-vgmgeljtc38h09ratvcm9l8ec4u83ldb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwIbMSf5vg8RlOoIfO4ZzaGK22H2ESiPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796524753406-vgmgeljtc38h09ratvcm9l8ec4u83ldb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
